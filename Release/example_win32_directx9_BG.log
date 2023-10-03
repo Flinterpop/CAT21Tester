@@ -1,0 +1,49 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (C:\source\gitexternal\imgui\examples\CAT21Test\Release\) contains files shared from another project (example_win32_directx9_CAT21.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  imgui_impl_dx9.cpp
+  imgui_impl_win32.cpp
+  asterix.cpp
+C:\source\gitexternal\imgui\examples\CAT21Test\asterix.cpp(105,23): warning C4244: '=': conversion from 'int' to 'u_short', possible loss of data
+C:\source\gitexternal\imgui\examples\CAT21Test\asterix.cpp(109,9): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\source\gitexternal\imgui\examples\CAT21Test\asterix.cpp(563,17): warning C4459: declaration of 'index' hides global declaration
+C:\source\gitexternal\imgui\examples\CAT21Test\asterix.cpp(56,5): message : see declaration of 'index'
+C:\source\gitexternal\imgui\examples\CAT21Test\asterix.cpp(576,17): warning C4459: declaration of 'index' hides global declaration
+C:\source\gitexternal\imgui\examples\CAT21Test\asterix.cpp(56,5): message : see declaration of 'index'
+C:\source\gitexternal\imgui\examples\CAT21Test\asterix.cpp(629,28): warning C4244: '=': conversion from 'int' to 'byte', possible loss of data
+C:\source\gitexternal\imgui\examples\CAT21Test\asterix.cpp(630,50): warning C4244: '=': conversion from 'int' to 'byte', possible loss of data
+C:\source\gitexternal\imgui\examples\CAT21Test\asterix.cpp(631,50): warning C4244: '=': conversion from 'int' to 'byte', possible loss of data
+C:\source\gitexternal\imgui\examples\CAT21Test\asterix.cpp(632,50): warning C4244: '=': conversion from 'int' to 'byte', possible loss of data
+C:\source\gitexternal\imgui\examples\CAT21Test\asterix.cpp(633,50): warning C4244: '=': conversion from 'int' to 'byte', possible loss of data
+C:\source\gitexternal\imgui\examples\CAT21Test\asterix.cpp(634,50): warning C4244: '=': conversion from 'int' to 'byte', possible loss of data
+C:\source\gitexternal\imgui\examples\CAT21Test\asterix.cpp(635,50): warning C4244: '=': conversion from 'int' to 'byte', possible loss of data
+C:\source\gitexternal\imgui\examples\CAT21Test\asterix.cpp(693,17): warning C4459: declaration of 'index' hides global declaration
+C:\source\gitexternal\imgui\examples\CAT21Test\asterix.cpp(56,5): message : see declaration of 'index'
+C:\source\gitexternal\imgui\examples\CAT21Test\asterix.cpp(705,17): warning C4459: declaration of 'index' hides global declaration
+C:\source\gitexternal\imgui\examples\CAT21Test\asterix.cpp(56,5): message : see declaration of 'index'
+C:\source\gitexternal\imgui\examples\CAT21Test\asterix.cpp(742,28): warning C4244: '=': conversion from 'int' to 'byte', possible loss of data
+C:\source\gitexternal\imgui\examples\CAT21Test\asterix.cpp(743,50): warning C4244: '=': conversion from 'int' to 'byte', possible loss of data
+C:\source\gitexternal\imgui\examples\CAT21Test\asterix.cpp(744,50): warning C4244: '=': conversion from 'int' to 'byte', possible loss of data
+C:\source\gitexternal\imgui\examples\CAT21Test\asterix.cpp(745,50): warning C4244: '=': conversion from 'int' to 'byte', possible loss of data
+C:\source\gitexternal\imgui\examples\CAT21Test\asterix.cpp(746,50): warning C4244: '=': conversion from 'int' to 'byte', possible loss of data
+C:\source\gitexternal\imgui\examples\CAT21Test\asterix.cpp(868,22): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\source\gitexternal\imgui\examples\CAT21Test\asterix.cpp(881,45): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\source\gitexternal\imgui\examples\CAT21Test\asterix.cpp(972,14): warning C4456: declaration of 'buf' hides previous local declaration
+C:\source\gitexternal\imgui\examples\CAT21Test\asterix.cpp(843,10): message : see declaration of 'buf'
+C:\source\gitexternal\imgui\examples\CAT21Test\asterix.cpp(837,17): warning C4189: 'draw_list': local variable is initialized but not referenced
+  DebugWindow.cpp
+C:\source\gitexternal\imgui\examples\CAT21Test\DebugWindow.cpp(153,5): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  geodesic.cpp
+  main.cpp
+  SocketStuff.cpp
+C:\source\gitexternal\imgui\examples\CAT21Test\SocketStuff.cpp(6,9): warning C4081: expected 'identifier'; found '('
+C:\source\gitexternal\imgui\examples\CAT21Test\SocketStuff.cpp(87,34): warning C4244: '=': conversion from 'SOCKET' to 'int', possible loss of data
+C:\source\gitexternal\imgui\examples\CAT21Test\SocketStuff.cpp(100,37): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 2196 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  example_win32_directx9_BG.vcxproj -> C:\source\gitexternal\imgui\examples\CAT21Test\Release\CAT21Tester dx9.exe
